@@ -77,11 +77,7 @@
     </pluginManagement>
   </build>
 	<distributionManagement>
-		<repository>
-			<id>devops-release</release id>
-			<name>d	evops-release</name>
-			<url> /<url>
-				</repository>
+		
 				<snapshotRepository>
 					<id>devops-snapshot</id>
 					<name>devops-snapshot</name>
